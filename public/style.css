@@ -1,0 +1,13 @@
+#map { 
+    margin: auto;
+    padding: 0px;
+    height: 350px;
+    max-width: 70%;
+    text-align: center;
+    justify-content: center;
+    border: solid black;
+}
+
+.main {
+    padding: 20px;
+}
